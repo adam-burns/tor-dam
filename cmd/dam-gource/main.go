@@ -24,7 +24,7 @@ import (
 	"fmt"
 	"os"
 
-	lib "github.com/parazyd/tor-dam/pkg/damlib"
+	lib "github.com/adam-burns/tor-dam/pkg/damlib"
 )
 
 func main() {
